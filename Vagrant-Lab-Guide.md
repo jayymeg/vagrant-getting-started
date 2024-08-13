@@ -58,6 +58,8 @@ This command gracefully shuts down the virtual machine.
     - $ vagrant destroy
 
 Confirm the action when prompted.
+
+
 ![vagrant lab guide 1](images/vagrant lab guide 1.png)
 ![configuration of vagrantfile](images/configuration of vagrantfile.png)
 ![vagrant lab guide 2](images/vagrant lab guide 2.png)
