@@ -61,5 +61,5 @@ Confirm the action when prompted.
 
 
 ![vagrant lab guide 1](https://github.com/jayymeg/vagrant_getting_started/blob/master/images/vagrant%20lab%20guide%201.png)
-![configuration of vagrantfile]
+![configuration of vagrantfile](https://github.com/jayymeg/vagrant_getting_started/blob/master/images/configuration%20of%20vagrantfile.png)
 ![vagrant lab guide 2]
