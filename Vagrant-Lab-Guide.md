@@ -60,6 +60,6 @@ This command gracefully shuts down the virtual machine.
 Confirm the action when prompted.
 
 
-![vagrant lab guide 1](images/vagrant lab guide 1.png)
+![vagrant lab guide 1](images/vagrant lab guide 1.png)(https://github.com/jayymeg/vagrant_getting_started/blob/master/images/vagrant%20lab%20guide%201.png)
 ![configuration of vagrantfile](images/configuration of vagrantfile.png)
 ![vagrant lab guide 2](images/vagrant lab guide 2.png)
